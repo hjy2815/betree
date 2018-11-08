@@ -1260,8 +1260,6 @@ body {
   }
 }
 .cid-r8C2G3ig96 {
-  padding-top: 60px;
-  padding-bottom: 60px;
   background: #232323;
   background: linear-gradient(90deg, #232323, #000000);
 }
@@ -1270,6 +1268,7 @@ body {
 }
 .cid-r8C2G3ig96 .video-block {
   margin: auto;
+  width: 100% !important;
 }
 @media (max-width: 767px) {
   .cid-r8C2G3ig96 .container-fluid {
